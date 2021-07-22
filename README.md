@@ -18,4 +18,4 @@ attributed in the comments and final report PDF.
 
 ## Additional Information ##
 - For demonstration purposes the application only displays three categories: Food, Rent, and Misc (miscellaneous).
-- The transactions amounts can only be entered as integers. The applications uses a stepper to enforce this requirement.
+- The transactions amounts can only be entered as integers. The application uses a stepper to enforce this requirement.
