@@ -1,4 +1,4 @@
-![QuickBudget Banner](https://github.com/luciajayne/QuickB/blob/6ef1535e97ee68116039419a65486eed583ff190/QB-Banner.png)
+![QuickBudget Banner](https://github.com/luciajayne/QuickBudgetApp/blob/f8ba370750c2f60b9d4d373b25585cccf09fdf4d/QB-Banner.png)
 # Project 7
 
 An iOS application (QuickBudget) designed to track personal expenses.
