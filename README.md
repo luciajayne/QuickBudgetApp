@@ -7,15 +7,14 @@ An iOS application (QuickBudget) designed to track personal expenses.
 
 Lucia Jayne, Arthur May
 
+## Video Demo ##
+[QuickBudget Youtube Video](https://youtu.be/O0eglJQW2d8)
+
 ## Honor Code ##
 
 This project adheres to the CU Honor Code.
 We had no outside help in the creation of this project, other than code snippets
 attributed in the comments and final report PDF.
-
-## Special Instructions ##
-
-The repository includes additional files from the previous iteration (Project 6) because when they were only removed by reference (in XCode) but not deleted. However, when the repository is opened in XCode it will only show the necessary files shown in the final class diagram.  
 
 ## Additional Information ##
 - For demonstration purposes the application only displays three categories: Food, Rent, and Misc (miscellaneous).
